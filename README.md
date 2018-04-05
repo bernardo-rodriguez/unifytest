@@ -5,4 +5,4 @@ Things to note:
 - I had some issue with parsing the response from Random.org so I had to rush the ending. Instead of collecting values for all 128 pixels and I ended up collecting only 127. 
 - Due to the issue described above and a slight bug when setting pixels, my bitmap image does not look like lines of the same color due to a slight offset (I figured out how to fix this but didn't want to resubmit after the deadline). 
 
-*I figured out the parsing issue literally 5 minutes after my final commit but decided not to change it to keep within the time limit of three hours (I was starting a count at 0 and going up to 128 and that's 129 numbers lol).
+*I figured out the parsing issue literally 5 minutes after my final commit but decided not to change it to keep within the time limit of three hours.
